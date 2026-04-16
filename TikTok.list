@@ -68,9 +68,9 @@ DOMAIN-SUFFIX,ns-722.awsdns-26.net
 DOMAIN-SUFFIX,ns-1475.awsdns-56.org
 DOMAIN-SUFFIX,ns-1574.awsdns-04.co.uk
 DOMAIN-SUFFIX,tiktokcdn-com.akamaized.net
-IP-CIDR,23.0.0.0/8,no-resolve
+IP-CIDR,23.46.0.0/16,no-resolve
 IP-CIDR,167.82.0.0/16,no-resolve
-IP-CIDR,34.0.0.0/8,no-resolve
+IP-CIDR,34.102.0.0/16,no-resolve
 IP-CIDR,199.232.0.0/16,no-resolve
 IP-CIDR,43.0.0.0/8,no-resolv
 IP-CIDR,79.0.0.0/8,no-resolv
