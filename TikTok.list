@@ -75,4 +75,5 @@ IP-CIDR,199.232.0.0/16,no-resolve
 IP-CIDR,43.0.0.0/8,no-resolv
 IP-CIDR,79.0.0.0/8,no-resolv
 IP-CIDR,71.0.0.0/8,no-resolv
+IP-CIDR,156.146.35.0/24,no-resolve
 URL-REGEX,^http:\/\/43\.156\.223\.237\/mmtls\/?$
