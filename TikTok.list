@@ -98,4 +98,5 @@ IP-CIDR,156.146.35.0/24,no-resolve
 IP-CIDR,156.146.59.0/24,no-resolve
 IP-CIDR,151.101.202.0/24,no-resolve
 IP-CIDR6,2a03:2880:f12a:83::/64,no-resolve
-
+IP-ASN,138699,no-resolve
+IP-ASN,396986,no-resolve
