@@ -70,6 +70,7 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokcdn-us
 DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-KEYWORD,tiktokv.us
 IP-CIDR,23.206.229.0/24,no-resolv
 IP-CIDR,43.130.30.0/24,no-resolv
 IP-CIDR,71.18.135.0/24,no-resolv
