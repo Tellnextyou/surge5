@@ -73,6 +73,7 @@ URL-REGEX,^http:\/\/43\.156\.223\.237\/mmtls\/?$
 URL-REGEX,(^|\.)muscdn\.com$
 URL-REGEX,(^|\.)musical\.ly$
 IP-ASN,138699,no-resolve
+IP-ASN,11983,no-resolve
 IP-ASN,396986,no-resolve
 IP-CIDR,23.206.229.0/24,no-resolv
 IP-CIDR,43.130.30.0/24,no-resolv
