@@ -39,8 +39,6 @@ DOMAIN-SUFFIX,tiktokv.eu
 DOMAIN-SUFFIX,tiktokw.eu
 DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,ttcdn-us.com
-USER-AGENT,TikTok*
-PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX,v16a.tiktokcdn.com
 DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,log.tiktokv.com
@@ -57,8 +55,6 @@ DOMAIN-SUFFIX,api2-21-h2.musical.ly
 DOMAIN-SUFFIX,api21-h2.tiktokv.com
 DOMAIN-SUFFIX,m.tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com.c.worldfcdn.com
-URL-REGEX,(^|\.)muscdn\.com$
-URL-REGEX,(^|\.)musical\.ly$
 DOMAIN-SUFFIX,*.tiktok.com
 DOMAIN-SUFFIX,www.tiktok.com
 DOMAIN-SUFFIX,ns-440.awsdns-55.com
@@ -71,6 +67,11 @@ DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokcdn-us
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,tiktokv.us
+USER-AGENT,TikTok*
+PROCESS-NAME,com.zhiliaoapp.musically
+URL-REGEX,^http:\/\/43\.156\.223\.237\/mmtls\/?$
+URL-REGEX,(^|\.)muscdn\.com$
+URL-REGEX,(^|\.)musical\.ly$
 IP-CIDR,23.206.229.0/24,no-resolv
 IP-CIDR,43.130.30.0/24,no-resolv
 IP-CIDR,71.18.135.0/24,no-resolv
@@ -97,4 +98,4 @@ IP-CIDR,156.146.35.0/24,no-resolve
 IP-CIDR,156.146.59.0/24,no-resolve
 IP-CIDR,151.101.202.0/24,no-resolve
 IP-CIDR6,2a03:2880:f12a:83::/64,no-resolve
-URL-REGEX,^http:\/\/43\.156\.223\.237\/mmtls\/?$
+
